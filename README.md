@@ -1,31 +1,30 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# [Virtual Bazigar] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Maria biju's team]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: [maria biju] - [College of engineering munnar ]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[can be used as a search engine also at some extend as google assistence model]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
 
+### The Solution (that nobody asked fo
+budject friendly alexa
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- [html,css,javascript]
+- []
 - [Libraries used]
 - [Tools used]
 
@@ -46,14 +45,22 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1](opening window)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2024-11-03 075752](https://github.com/user-attachments/assets/aa009ce4-fea4-4da7-ba03-a7969d788f3a)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
+![Screenshot2](working as a search engine,asking question)
+
+![Screenshot 2024-11-03 075835](https://github.com/user-attachments/assets/0ee2c690-926d-41c1-8493-d0e6c4dfd707)
+
+![Screenshot3](answering to the question)
+![Screenshot 2024-11-03 075854](https://github.com/user-attachments/assets/cdb35353-6108-4954-8341-75b79a3710aa)
+
+asking to open instagram
+![image](https://github.com/user-attachments/assets/a5ee81d7-bc45-4221-85f9-f672d6f8b302)
+
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -80,11 +87,12 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+
+
 
 # Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
