@@ -9,17 +9,15 @@
 
 ### Team Members
 - Team Lead: [maria biju] - [College of engineering munnar ]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
 
 ### Project Description
 [can be used as a search engine also at some extend as google assistence model]
 
-### The Problem (that doesn't exist)
+
 
 
 ### The Solution (that nobody asked fo
-budject friendly alexa
+budject friendly ai buddy
 ## Technical Details
 ### Technologies/Components Used
 For Software:
